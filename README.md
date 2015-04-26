@@ -25,7 +25,7 @@ General Goals:
 
   - Build and analyze a logistic regression model in Python.
   
-  -Learn key concepts in multivariate analysis.
+  - Learn key concepts in multivariate analysis.
 
   - Perform multivariate analysis in Python.
   
